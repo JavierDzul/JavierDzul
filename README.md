@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Javier Pech Dzul, im a aspiring software developer with fullstack experience.
-Currently studying at TECNM CANCÚN
-Open to work, both in spanish and english.
+- My name is Javier Pech Dzul, im a aspiring software developer with fullstack experience.
+- Currently studying at TECNM CANCÚN
+- Open to work, both in spanish and english.
 
 
 ## 🌐 Socials:
